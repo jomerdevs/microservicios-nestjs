@@ -1,0 +1,12 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/jomerdevs/api-gateway.git
+[submodule "user-microservice"]
+	path = user-microservice
+	url = https://github.com/jomerdevs/user-microservice.git
+[submodule "flights-microservice"]
+	path = flights-microservice
+	url = https://github.com/jomerdevs/flights-microservice.git
+[submodule "passenger-microservice"]
+	path = passenger-microservice
+	url = https://github.com/jomerdevs/passenger-microservice.git
